@@ -1,6 +1,6 @@
 
 {
-  "zones": [
+  "posts": [
     { "zoneId": "423fdfc214", "zoneName": "Zona 1",
       "description": "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
  "continent": "",
