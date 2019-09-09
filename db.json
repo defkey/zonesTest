@@ -1,4 +1,5 @@
-[
+{
+  "zones": [
   {
  "zoneId": "423fdfc214",
  "zoneName": "Zona 1",
@@ -26,3 +27,4 @@
  "enabled": true
 }
 ]
+}
