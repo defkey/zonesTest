@@ -1,28 +1,15 @@
+
 {
-  "zones": [
-  {
- "zoneId": "423fdfc214",
- "zoneName": "Zona 1",
- "description": "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
- "continent": "",
- "country": "",
- "province": "Tucuman",
- "city": "",
- "neighborhood": "",
- "state": "",
- "enabled": true
-},
-{
- "zoneId": "423fdfc215",
- "zoneName": "Zona 2",
- "description": "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
- "continent": "",
- "country": "",
- "province": "Rioja",
- "city": "",
- "neighborhood": "",
- "state": "",
- "enabled": true
-}
-]
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
