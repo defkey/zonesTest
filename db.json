@@ -1,29 +1,28 @@
 [
   {
- zoneId: '423fdfc214',
- zoneName: 'Zona 1',
- description: "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
- ownerUsers: ['userId1', 'userId2'],
- continent: '',
- country: '',
- province: 'Tucuman',
- city: '',
- neighborhood: '',
- state: '',
- enabled: true
+ "zoneId": "423fdfc214",
+ "zoneName": "Zona 1",
+ "description": "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
+ "ownerUsers": ['userId1', 'userId2'],
+ "continent": '',
+ "country": '',
+ "province": 'Tucuman',
+ "city": "",
+ "neighborhood": "",
+ "state": "",
+ "enabled": true
 },
-
-  {
- zoneId: '423fdfc215',
- zoneName: 'Zona 2',
- description: "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
- ownerUsers: ['userId1', 'userId2'],
- continent: '',
- country: '',
- province: 'La Rioja',
- city: '',
- neighborhood: '',
- state: '',
- enabled: true
-},
+{
+ "zoneId": "423fdfc215",
+ "zoneName": "Zona 2",
+ "description": "Todos las ciudades de la provincia de Bs As menos excepto capital federal",
+ "ownerUsers": ['userId1', 'userId2'],
+ "continent": '',
+ "country": '',
+ "province": 'Tucuman',
+ "city": "",
+ "neighborhood": "",
+ "state": "",
+ "enabled": true
+}
 ]
