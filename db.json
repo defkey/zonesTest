@@ -2,6 +2,7 @@
 {  
    "zones":[  
       {  
+         "id":"1",
          "zoneId":"1",
          "zoneName":"Zona 1",
          "description":"Todos las ciudades de la provincia de Bs As menos excepto capital federal",
@@ -14,6 +15,7 @@
          "enabled":true
       },
       {  
+         "id":"2",
          "zoneId":"2",
          "zoneName":"Zona 2",
          "description":"Todos las ciudades de la provincia de Bs As menos excepto capital federal",
