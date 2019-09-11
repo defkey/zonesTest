@@ -6,12 +6,8 @@
          "zoneId":"1",
          "zoneName":"Zona 1",
          "description":"Todos las ciudades de la provincia de Bs As menos excepto capital federal",
-         "continent":"",
-         "country":"",
-         "province":"Tucuman",
-         "city":"",
-         "neighborhood":"",
-         "state":"",
+         "createdAt":"",
+         "ownerUsers":"123456",
          "enabled":true
       },
       {  
@@ -19,12 +15,8 @@
          "zoneId":"2",
          "zoneName":"Zona 2",
          "description":"Todos las ciudades de la provincia de Bs As menos excepto capital federal",
-         "continent":"",
-         "country":"",
-         "province":"Rioja",
-         "city":"",
-         "neighborhood":"",
-         "state":"",
+         "createdAt":"",
+         "ownerUsers":"12345",
          "enabled":true
       }
    ],
